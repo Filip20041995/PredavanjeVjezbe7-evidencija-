@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'14'
+-sourcepath
+'C:/Users/Korisnik/Documents/NetBeansProjects/PredavanjeVjezbe7/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Korisnik/Documents/NetBeansProjects/PredavanjeVjezbe7/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PredavanjeVjezbe7 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/14/docs/api' 'C:/Users/Korisnik/Documents/NetBeansProjects/PredavanjeVjezbe7/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PredavanjeVjezbe7 1.0-SNAPSHOT API'
